@@ -1,0 +1,26 @@
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#sourceTA {
+  display: block;
+  width: 700px;
+  height: 250px;
+}
+#targetTA {
+  float: left;
+  border: 1px dashed #333333;
+  width: 700px;
+  height: 300px;
+}
+#targetSpace {
+  float: left;
+  width: 50px;
+  height: 300px;
+}
+#targetDiv {
+  float: left;
+  overflow: scroll;
+  border: 1px dashed #333333;
+  width: 700px;
+  height: 300px;
+}

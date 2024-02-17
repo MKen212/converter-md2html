@@ -1,0 +1,24 @@
+{
+  "name": "converter-md2html",
+  "version": "1.0.0",
+  "description": "Tool to convert markdown (.md) files to html using showdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkKensington/converter-md2html.git"
+  },
+  "author": "Mark Kensington",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarkKensington/converter-md2html/issues"
+  },
+  "homepage": "https://github.com/MarkKensington/converter-md2html#readme",
+  "dependencies": {
+    "github-markdown-css": "^3.0.1",
+    "highlight.js": "^9.15.6",
+    "showdown": "^1.9.0"
+  }
+}
